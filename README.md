@@ -42,3 +42,6 @@ Definir a fonte e suas propriedades: para os headers
 - [ ] Feedback de interação
 - [ ] Responsividade
 - [ ] Navegação com o teclado
+
+## Licença
+[MIT Licence](https://github.com/janasouza/design-checklist/blob/master/LICENCE.md) © Janaina Souza
