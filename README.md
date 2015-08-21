@@ -1,5 +1,7 @@
 # Design Checklist
 
+> Checklist para ajudar os designers a começarem seus projetos com boas práticas de UX, usabilidade e acessibilidade. Tudo junto e misturado a cada fase do projeto. 
+
 ## Arquitetura
 
 - [ ] Definir estrutura de headers
